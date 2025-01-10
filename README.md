@@ -1,5 +1,6 @@
-## Hi there 👋
+## About me
 
+I'm Chuang, Hsiang-Kai, a graduate student at the National Tsing Hua University (NTHU), specializing in Electrical Engineering.
 <!--
 **kaikaichuang/kaikaichuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
